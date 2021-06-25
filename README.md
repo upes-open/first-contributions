@@ -8,7 +8,7 @@ This repository is all about making your first open-source contribution. But bef
 1. Head over to the Issues tab and pick any topic of interest.
 2. Write a micro-blog on the selected topic, in markdown format.
 3. Add your contact details at the end. 
-4. Go through the CONTRIBUTING guidelines and generate a Pull Request.
+4. Go through the [CONTRIBUTING](https://github.com/upes-open/first-contributions/blob/main/CONTRIBUTING.md) guidelines and generate a Pull Request.
 5. Wait for your PR to get merged.
 6. Star this repository and share with your friends.
 7. Celebrate!! 
@@ -16,11 +16,11 @@ This repository is all about making your first open-source contribution. But bef
 ## Micro Blog Sample Format
 
 ## Extras
-1. What is Open Source.
-2. How to contribute to open-source.
-3. Learning Git and Github.
-4. Git cheatsheet.
-5. Browse our other projects.
+1. [What is Open Source](https://opensource.guide/starting-a-project/#what-does-open-source-mean)
+2. [How to contribute to open-source](https://opensource.guide/how-to-contribute/)
+3. [Learning Git and Github](https://guides.github.com/introduction/git-handbook/)
+4. [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+5. [Browse our other projects](https://github.com/upes-open)
 
 ## Maintainers 
 
