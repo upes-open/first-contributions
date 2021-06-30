@@ -3,19 +3,23 @@
 ## Let's start
 1. Fork the repository.
 2. Clone the repository on your local machine. 
-   ```
+   ```sh
    git clone https://github.com/[YOUR_USERNAME]/first-contributions.git
    ```
 
 3. Create a branch from `main`. 
-   ```
+   ```sh
    git branch <branch-name> main
    ```
 4. Choose a topic from the issues section. 
 5. Create Name the file as `[TOPIC NAME].md` .
+   ```sh
+   cd docs
+   nano <topic_name.md>
+   ```
 6. Create a Micro-Blog on the selected topic.
 7. Commit your file to your branch and push to Github. 
-   ```
+   ```sh
    git add <file_name.md>
    git commit -m "Add: <topic_name> 🚀"
    git push -u origin <branch_name>
