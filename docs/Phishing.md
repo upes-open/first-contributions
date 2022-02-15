@@ -28,3 +28,10 @@ When attackers go after a “big fish” like a CEO, it’s called whaling. Thes
 
 Pharming
 Similar to phishing, pharming sends users to a fraudulent website that appears to be legitimate. However, in this case, victims do not even have to click a malicious link to be taken to the bogus site. Attackers can infect either the user’s computer or the website’s DNS server and redirect the user to a fake site even if the correct URL is typed in.
+
+
+Written by :
+Name: Dhruv Lamba
+Open Community Member
+Course- Btech(cse)
+Year-1st
